@@ -1,4 +1,4 @@
-# VibeDoctor - Production Readiness for AI-Coded Apps
+# VibeDoctor - Security and Performance for Vibe-Coded Apps
 
 **Your AI has no quality gate. We are.**
 
@@ -8,7 +8,7 @@
 
 ## What is VibeDoctor?
 
-VibeDoctor scans apps built with AI coding tools — Cursor, Claude Code, GitHub Copilot, Lovable, Bolt — and finds the problems they left behind before those problems reach your users.
+VibeDoctor scans apps built with AI coding tools - Cursor, Claude Code, GitHub Copilot, Lovable, Bolt - and finds the problems they left behind before those problems reach your users.
 
 Security vulnerabilities. Performance bottlenecks. Hallucinated imports. Exposed secrets. Broken error handling. We find them. We tell you exactly how to fix them.
 
@@ -38,7 +38,7 @@ Security vulnerabilities. Performance bottlenecks. Hallucinated imports. Exposed
 | **Infrastructure** | SSL, HSTS, TLS config, security headers |
 | **Accessibility** | WCAG compliance, screen reader support |
 
-15 production readiness checks. One score. Clear fix prompts.
+15 security and performance checks. One score. Clear fix prompts.
 
 ---
 
@@ -80,6 +80,7 @@ Available tools: `vibedoctor_check` · `vibedoctor_check_security` · `vibedocto
 | **Scans/day** | 10 | 50 | 200 |
 | **MCP checks** | 500/mo | 2,000/mo | 5,000/mo |
 | **Uptime monitoring** | 5 min | 1 min | 1 min |
+| **Re-scan frequency** | Weekly | 3x/week | Daily |
 
 All plans include push scans, PR reviews, SSL alerts, and team seats.
 
