@@ -1,4 +1,4 @@
-# VibeDoctor — Production Readiness for AI-Coded Apps
+# VibeDoctor - Production Readiness for AI-Coded Apps
 
 **Your AI has no quality gate. We are.**
 
@@ -108,4 +108,4 @@ No credit card required. First scan is free.
 
 ---
 
-*VibeDoctor - App Emergency Room · EU-based · GDPR compliant · vibedoctor.io*
+*VibeDoctor - App Emergency Room - EU-based - GDPR compliant - vibedoctor.io*
